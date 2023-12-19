@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702807752 source:/home/ahsan/Desktop/OEL/OEL/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curl/curl.h>
+
