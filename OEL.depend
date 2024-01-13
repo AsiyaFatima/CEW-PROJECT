@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1704846381 source:/home/ahsan/Desktop/OEL/OEL/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curl/curl.h>
+	<cjson/cJSON.h>
+	"send_email.h"
+
+1704847574 source:/home/ahsan/Desktop/OEL/OEL/send_email.c
+	<stdio.h>
+	<curl/curl.h>
+	"send_email.h"
+
+1704847819 /home/ahsan/Desktop/OEL/OEL/send_email.h
+
+1704849056 source:/home/wajeeha/Desktop/OEL(2)/OEL/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curl/curl.h>
+	<cjson/cJSON.h>
+	"send_email.h"
+
+1704847819 /home/wajeeha/Desktop/OEL(2)/OEL/send_email.h
+
+1704847574 source:/home/wajeeha/Desktop/OEL(2)/OEL/send_email.c
+	<stdio.h>
+	<curl/curl.h>
+	"send_email.h"
+
+1704847574 source:/home/wajeeha/Desktop/OELLL/OEL/send_email.c
+	<stdio.h>
+	<curl/curl.h>
+	"send_email.h"
+
+1704847819 /home/wajeeha/Desktop/OELLL/OEL/send_email.h
+
